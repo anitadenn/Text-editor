@@ -76,8 +76,7 @@ def quit():
 window = Tk()
 window.title("Text Editor")
 
-icon = PhotoImage(file="notebook_image.png")
-window.iconphoto(True,icon)
+
 
 file = None
 window_width = 500
